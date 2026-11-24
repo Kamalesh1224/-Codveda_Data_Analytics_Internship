@@ -161,7 +161,7 @@ To analyze sentiment data and present meaningful information through interactive
 
 **Tableau Public Dashboard:** 
 
-[Add the published Tableau Public dashboard URL here]
+https://public.tableau.com/app/profile/kamalesh.raja/viz/Dashboard_Backup_Final/Dashboard1
 
 ## Learning Outcomes
 
